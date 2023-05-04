@@ -1,0 +1,3 @@
+save
+
+execute_script G:\Мой диск\programming\java\lab5_all\lab5-mvn-ilya\src\main\resources\script3.txt

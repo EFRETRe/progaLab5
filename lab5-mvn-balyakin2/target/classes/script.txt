@@ -1,0 +1,5 @@
+help
+show
+
+
+G:\Мой диск\programming\java\lab5_all\lab5-mvn-balyakin\src\main\resources\script2.txt

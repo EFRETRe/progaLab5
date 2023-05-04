@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<route>
+<id>6434</id>
+<name>krasnodar-spb</name>
+<coord-x>123.0</coord-x>
+<coord-y>124.0</coord-y>
+<creationDate>2023-05-03</creationDate>
+<loc-from-x>11</loc-from-x>
+<loc-from-y>22</loc-from-y>
+<loc-from-z>33.0</loc-from-z>
+<loc-from-name>krasnodar</loc-from-name>
+<loc-to-x>4124</loc-to-x>
+<loc-to-y>124</loc-to-y>
+<loc-to-z>124.0</loc-to-z>
+<loc-to-name>spb</loc-to-name>
+<distance>412412</distance>
+</route>
